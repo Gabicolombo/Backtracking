@@ -15,6 +15,7 @@ Backtracking é um algoritmo que olha todos os caminhos possíveis e escolhe aqu
 <br>(...)
 <br><linha posição de partida> <coluna posição de partida>
 <br><linha posição de destino> <coluna posição de destino>
+<br>
 <br>O tipo de caminho melhor a ser escolhido será de acordo com o critério escolhido pelo o usuário na linha de comando.
 1. Critério 1: Caminho mais curto. Isto é, que passe pelo menor número possível de casas.
 2. Critério 2: Caminho mais longo. Isto é, que passe pelo maior número possível de casas (sem passar duas vezes pela a mesma casa).
